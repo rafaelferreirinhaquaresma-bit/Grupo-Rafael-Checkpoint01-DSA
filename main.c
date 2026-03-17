@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("Aluno 1");
+    printf("Rafael Ferreirinha Quaresma");
     printf("Aluno 2");
     printf("Aluno 3");
     return 0;
